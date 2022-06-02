@@ -1,5 +1,5 @@
 ## Design
 
-Liberties constrain, constrains liberate [a link](https://www.youtube.com/watch?v=GqmsQeSzMdw)
+[Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar
 
-Axis of abstraction by Paul Philips [a link](https://www.youtube.com/watch?v=fOI7TJaojTs)
+[Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips 

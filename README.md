@@ -5,3 +5,7 @@
 [Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips 
 
 [Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4) by Rich Hickey
+
+## Machine learning
+
+[Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=X9uSV1YcOy4&](https://youtu.be/X9uSV1YcOy4)

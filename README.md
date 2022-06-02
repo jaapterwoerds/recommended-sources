@@ -8,4 +8,4 @@
 
 ## Machine learning
 
-[Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=X9uSV1YcOy4&](https://youtu.be/X9uSV1YcOy4)
+[Bob Coecke on QNLP](https://youtu.be/X9uSV1YcOy4)

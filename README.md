@@ -8,4 +8,4 @@
 
 ## Machine learning
 
-[Bob Coecke on QNLP](https://youtu.be/X9uSV1YcOy4)
+[Bob Coecke on QNLP](https://youtu.be/X9uSV1YcOy4](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless

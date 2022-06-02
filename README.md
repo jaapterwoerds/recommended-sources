@@ -9,3 +9,8 @@
 ## Machine learning
 
 [Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless
+
+
+## Sadly not fiction
+
+[On ambition] (https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d)

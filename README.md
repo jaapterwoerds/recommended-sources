@@ -4,7 +4,7 @@
 
 [Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips 
 
-[Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4) by Rich Hickey
+[Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4) by Rich Hickey. I like his slogan but he seems to be drowning in his own analytical philosphic word soup without coming to anything substantial.
 
 ## Machine learning
 

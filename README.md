@@ -2,7 +2,7 @@
 
 [Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar
 
-[Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips 
+[Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips. If I just keep promoting the word adhocicity it will become a word hopefully. 
 
 [Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4) by Rich Hickey. I like his slogan but he seems to be drowning in his own analytical philosphic word soup without coming to anything substantial.
 

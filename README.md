@@ -1,3 +1,6 @@
+# Collected resources I often refer to
+found worthhwile. I often refer to these sources for various reasons. This repository collects and categorizes these sources together with a small explanations why they're so great. 
+
 ## System Design
 
 [Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar

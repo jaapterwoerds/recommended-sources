@@ -6,6 +6,10 @@
 
 [Simple made easy](https://www.youtube.com/watch?v=SxdOUGdseq4) by Rich Hickey. I like his slogan but he seems to be drowning in his own analytical philosphic word soup without coming to anything substantial.
 
+## Proof and type wizardry
+
+[Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Voedsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics
+
 ## Machine learning
 
 [Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless

@@ -8,7 +8,7 @@
 
 ## Proof and type wizardry
 
-[Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Vladimir Voevodsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics. His introduction is about an bug in a groundbraking paper 'Algabraic cycles and higher K theory' which discredited the hole field of motovic cohomology([from 12 min onwards](https://youtu.be/E9RiR9AcXeE?t=733). Later it turned out there were more bugs 😄
+[Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Vladimir Voevodsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics. His introduction is about an bug in a groundbraking paper 'Algabraic cycles and higher K theory' which discredited the hole field of motovic cohomology( [from 12 min onwards](https://youtu.be/E9RiR9AcXeE?t=733). Later it turned out there were more bugs 😄. The rest of the talk is about bugs in mathematics and what can be done about that.
 
 ## Machine learning
 

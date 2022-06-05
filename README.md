@@ -1,5 +1,5 @@
 # Collected resources I often refer to
-found worthhwile. I often refer to these sources for various reasons. This repository collects and categorizes these sources together with a small explanations why they're so great. 
+I found the following list of resources worthhwile the re-read and - watch many times. I often refer friends and colleagues to these sources for various reasons. This repository collects and categorizes these sources together with a small explanations why they're so great. 
 
 ## System Design
 

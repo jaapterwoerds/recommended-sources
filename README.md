@@ -8,7 +8,7 @@
 
 ## Proof and type wizardry
 
-[Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Voedsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics
+[Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Voedsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics. His introduction is about an bug in a groundbraking paper 'Algabraic cycles and higher K theory' which discredited the hole field of motovic cohomology.
 
 ## Machine learning
 

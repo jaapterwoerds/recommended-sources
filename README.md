@@ -7,6 +7,7 @@ I found the following list of resources worthhwile the re-read and - watch many 
 [Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right. The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, category theory and diagrammetic proof theory. Essential material.
 
 ## System Design
+The overarcing theme here is choose your constraints explicitly and formalize them using the language of universal algebra and category theory.
 
 [Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar
 

@@ -15,7 +15,7 @@ I found the following list of resources worthhwile the re-read and - watch many 
 
 ## Machine learning
 
-[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right.
+[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right. IN general the content in the Machine learning street talk podcast is of exceptional quality. This particular episode is epic because of the character of Bob Coecke and the cross section of sciences: quantum computing, deep learning, category theory and diagrammetic proof theory. 
 
 ## Sadly not fiction
 

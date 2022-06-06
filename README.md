@@ -15,8 +15,7 @@ I found the following list of resources worthhwile the re-read and - watch many 
 
 ## Machine learning
 
-[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless
-
+[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right.
 
 ## Sadly not fiction
 

@@ -1,6 +1,11 @@
 # Collected resources I often refer to
 I found the following list of resources worthhwile the re-read and - watch many times. I often refer friends and colleagues to these sources for various reasons. This repository collects and categorizes these sources together with a small explanations why they're so great. 
 
+
+## Machine learning
+
+[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right. The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, category theory and diagrammetic proof theory. Essential material.
+
 ## System Design
 
 [Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar
@@ -12,10 +17,6 @@ I found the following list of resources worthhwile the re-read and - watch many 
 ## Proof and type wizardry
 
 [Univalent foundations of mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE) A mathematician talking about why maths needs compilation and continuous intergration. Vladimir Voevodsky is called the father of Homotopy type theory but he seems to be gotten there from the angle of reproducable sience and mathematics. His introduction is about an bug in a groundbraking paper 'Algabraic cycles and higher K theory' which discredited the hole field of motovic cohomology( [from 12 min onwards](https://youtu.be/E9RiR9AcXeE?t=733). Later it turned out there were more bugs 😄. The rest of the talk is about bugs in mathematics and what can be done about that.
-
-## Machine learning
-
-[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right. IN general the content in the Machine learning street talk podcast is of exceptional quality. This particular episode is epic because of the character of Bob Coecke and the cross section of sciences: quantum computing, deep learning, category theory and diagrammetic proof theory. 
 
 ## Sadly not fiction
 

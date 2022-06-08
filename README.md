@@ -4,7 +4,9 @@ I found the following list of resources worthwile and often reread and rewatch. 
 ## Machine learning
 Black box that shit..
 
-[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The grin on the presenter's face is priceless and worth a study in it's own right. The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, natural language processing, category theory and diagrammetic proof theory. Essential material for people who understand that the real science nowadays cross polinates and has a cross sectional frontier with Category Theory as an important enabler.
+[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, natural language processing, category theory and diagrammetic proof theory. Essential material for people who understand that the real science nowadays cross polinates and has a cross sectional frontier with Category Theory as an important enabler.
+
+As a bonus, the grin on the presenter's face during the whole introdutiuon is priceless and worth a study in it's own right. 
 
 ## System Design
 The overarcing theme here is choose your constraints explicitly and formalize them using the language of universal algebra and category theory.
@@ -25,6 +27,6 @@ The overarcing theme here is choose your constraints explicitly and formalize th
  
 # Podcast and series
 
-[Machine learning street talk](https://www.youtube.com/c/MachineLearningStreetTalk) If ever in need of an advanced ML content firehose, look no further than Machine learning street talk.
+[Machine learning street talk](https://www.youtube.com/c/MachineLearningStreetTalk) If ever in need of an advanced ML content firehose, look no further than Machine learning street talk. In addition the editing and introductions of the guest and the technical background are exquisitit, really wonderfully crafted and edited.
 
 [Lex Fridman's podcast)(https://www.youtube.com/c/lexfridman) Lex has a wide array of interesting guests. The reason the podcast is so great is the preparation and genuine interest of the interviewer in the deep questions that occupy the mind the guests.

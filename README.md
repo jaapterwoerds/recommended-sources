@@ -1,7 +1,6 @@
 # Collected resources I often refer to
 I found the following list of resources worthwile and often reread and rewatch. I often refer friends and colleagues to these sources for various reasons. This repository collects and categorizes these sources together with a small explanations why they're so great. 
 
-
 ## Machine learning
 Black box that shit..
 
@@ -24,3 +23,8 @@ The overarcing theme here is choose your constraints explicitly and formalize th
 
 [On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d) 
  
+# Podcast and series
+
+[Machine learning street talk](https://www.youtube.com/c/MachineLearningStreetTalk) If ever in need of an advanced ML content firehose, look no further than Machine learning street talk.
+
+[Lex Fridman's podcast)(https://www.youtube.com/c/lexfridman) Lex has a wide array of interesting guests. The reason the podcast is so great is the preparation and genuine interest of the interviewer in the deep questions that occupy the mind the guests.

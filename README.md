@@ -23,7 +23,8 @@ The overarcing theme here is choose your constraints explicitly and formalize th
 
 ## Sadly not fiction
 
-[On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d) 
+[On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d)
+[On wetware](https://en.wikipedia.org/wiki/Neuromancer)
  
 # Podcast and series
 

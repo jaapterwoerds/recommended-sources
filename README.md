@@ -4,7 +4,7 @@ I found the following list of resources worthwile and often reread and rewatch. 
 ## Machine learning
 Black box that shit..
 
-[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, natural language processing, category theory and diagrammetic proof theory. Essential material for people who understand that the real science nowadays cross polinates and has a cross sectional frontier with Category Theory as an important enabler.
+[Bob Coecke on QNLP](https://www.youtube.com/watch?v=X9uSV1YcOy4&t=0s) The content in the Machine learning street talk podcast is of exceptional quality, but this particular episode is beyond epic because of the character of Bob Coecke and the cross section of sciences which come together here: quantum computing, deep learning, natural language processing, category theory and diagrammetic proof theory. Essential material for people who understand that the real science nowadays cross polinates and has a multidisciplanary frontier with Category Theory as an important enabler.
 
 As a bonus, the grin on the presenter's face during the whole introdutiuon is priceless and worth a study in it's own right. 
 

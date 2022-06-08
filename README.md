@@ -23,6 +23,7 @@ The overarcing theme here is choose your constraints explicitly and formalize th
 
 ## Sadly not fiction
 
+[Functional pearls in go or maybe not](https://github.com/robpike/filter)
 [On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d) 
  
 # Podcast and series

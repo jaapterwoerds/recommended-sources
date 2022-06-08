@@ -27,6 +27,9 @@ These are a collection of my favorite sources of contrarian views. Very wrong, b
 [Functional pearls in go or maybe not](https://github.com/robpike/filter)
 
 [On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d)
+
+## Fiction
+
 [On wetware](https://en.wikipedia.org/wiki/Neuromancer)
  
 # Podcast and series

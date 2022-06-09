@@ -11,7 +11,7 @@ As a bonus, the grin on the presenter's face during the whole introduction is pr
 ## System Design
 The overarcing theme here is choose your constraints explicitly and formalize them using the language of universal algebra and category theory.
 
-[Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar
+[Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar Bjarnasson
 
 [Axis of abstraction](https://www.youtube.com/watch?v=fOI7TJaojTs) by Paul Philips. If I just keep promoting the word adhocicity it will become a word hopefully. 
 
@@ -30,7 +30,7 @@ The attitude which Voevodsky ascribes to fellow mathematicians that formalizing 
 ## Sadly not fiction
 These are a collection of my favorite sources of contrarian views. Very wrong, but deliciously so..
 
-[Functional pearls in go or maybe not](https://github.com/robpike/filter)
+[Rob Pike's Functional pearls in go (or maybe not)](https://github.com/robpike/filter)
 
 [On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d)
 

@@ -23,7 +23,7 @@ The overarcing theme here is choose your constraints explicitly and formalize th
 
 The unvivalent foundations are merely there to provide an alternative foundations of mathematics on which the rest of mathematics can be expressed so it's suitable for verification by computers. The key is there that the language of univalent foundations / HOTT is closer to how mathematicians express proof and theorems than existing alternatives at that time. 
 
-The attitude which Voevodsky ascribes to fellow mathematicians that formalizing proofs is not the real mathematics and that it is on the one hand trivial but also very hard resonates with me. It's prevalent in software engineering and machine learning(productionizing data science code 🤦‍♂️)  too. The overconvidence in one's ability to write correct code is a real problem and hinders the progress we make as an civilization. 
+The attitude which Voevodsky ascribes to fellow mathematicians that formalizing proofs is not the real mathematics and that it is on the one hand trivial but also very hard resonates with me. It's prevalent in software engineering(refactoring a system often means fixing critical bugs causing data losss and coruption) and machine learning (productionizing data science code 🤦‍♂️) too. The overconvidence in one's ability to write correct code is a real problem and hinders the progress we make as an civilization. Where is our library of Alexandria? A resuable, verified collection of software and algorithms and their properties with mapping to different programming languages available from the IDE?
 
 
 

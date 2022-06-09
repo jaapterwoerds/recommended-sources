@@ -30,7 +30,7 @@ The attitude which Voevodsky ascribes to fellow mathematicians that formalizing 
 ## Sadly not fiction
 These are a collection of my favorite sources of contrarian views. Very wrong, but deliciously so..
 
-[Rob Pike's Functional pearls in go (or maybe not)](https://github.com/robpike/filter)
+[Rob Pike's Functional pearls in go (or maybe not)](https://github.com/robpike/filter) Not even wrong considering the Universe Rob Pike lives in
 
 [On ambition](https://medium.com/hashicorp-engineering/why-i-believe-hcl-is-better-than-yaml-78226a645b0d) AKA My boss made me write this 😸
 

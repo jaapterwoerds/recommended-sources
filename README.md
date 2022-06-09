@@ -9,7 +9,7 @@ Black box that shit..
 As a bonus, the grin on the presenter's face during the whole introduction is priceless and worth a study in it's own right. 
 
 ## System Design
-The overarcing theme here is choose your constraints explicitly and formalize them using the language of universal algebra and category theory.
+The overarcing theme here is choose your constraints explicitly and formalize them using the language of logic, universal algebra and category theory.
 
 [Liberties constrain, constrains liberate](https://www.youtube.com/watch?v=GqmsQeSzMdw) by Runar Bjarnasson
 
